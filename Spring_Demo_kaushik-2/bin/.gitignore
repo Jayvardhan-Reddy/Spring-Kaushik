@@ -1,0 +1,14 @@
+/org/
+/pointsconfig.properties
+/springApplicationContextAware.xml
+/springBeanAutowiring.xml
+/springBeanDefinitionInheritance.xml
+/springBeanFactoryPostProcessor.xml
+/springBeanPostProcessor.xml
+/springBeanScope.xml
+/springCollection.xml
+/springConstructorInjection.xml
+/springInjectingObjects.xml
+/springInnerBeans_Alias_Idref.xml
+/springInterface.xml
+/springLifeCycleCallBack.xml
